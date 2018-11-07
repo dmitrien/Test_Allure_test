@@ -1,0 +1,50 @@
+apply plugin: 'java'
+apply plugin: 'ru.d10xa.allure'
+apply plugin:'base'
+sourceCompatibility = JavaVersion.VERSION_1_8
+targetCompatibility = JavaVersion.VERSION_1_8
+version = '1.0-SNAPSHOT'
+defaultTasks 'clean', 'test'
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath "ru.d10xa:gradle-allure-plugin:0.5.2"
+    }
+}
+repositories {
+    mavenCentral()
+    jcenter()
+}
+configurations {
+    agent
+}
+dependencies {
+    compile 'org.testng:testng:6.14.3'
+    compile 'org.seleniumhq.selenium:selenium-java:3.13.0'
+    compile 'org.hamcrest:hamcrest-junit:2.0.0.0'
+    compile 'com.beust:jcommander:1.72'
+    compile 'com.thoughtworks.xstream:xstream:1.4.11.1'
+    compile 'com.google.code.gson:gson:2.8.5'
+    agent "org.aspectj:aspectjweaver:1.8.0"
+    testCompile "ru.yandex.qatools.allure:allure-testng-adaptor:1.4.0"
+    testCompile 'org.testng:testng:6.8'
+}
+allure {
+    aspectjweaver = true
+    testNG = true
+    allureResultsDir = "build/allure-results"
+    allureReportDir = "build/allure-report"
+    clean = true
+    tasks.withType(Test)*.finalizedBy allureReport
+}
+test.doFirst {
+    jvmArgs "-javaagent:${configurations.agent.singleFile}"
+}
+test{
+    useTestNG(){
+        suites 'src/test/resources/testng.xml'
+    }
+    systemProperty 'allure.results.directory', 'build/allure-results'
+}

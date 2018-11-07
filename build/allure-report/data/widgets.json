@@ -1,0 +1,70 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 7,
+        "passed" : 6,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 1,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1541599502513,
+        "stop" : 1541599550953,
+        "duration" : 48440
+      }
+    },
+    "defects" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "count" : 1,
+        "uid" : "241b7825a4ed2e6c",
+        "message" : "AssertionError: \nExpected: <[ContactData{id=2, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=6, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=7, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=3, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=5, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=8, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=9, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=4, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=1, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}]>\n     but: was <[ContactData{id=2, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=6, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=7, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=3, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=10, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=5, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=8, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=9, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=4, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=1, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}]>",
+        "status" : "FAILED"
+      } ]
+    },
+    "xunit" : {
+      "totalCount" : 2,
+      "items" : [ {
+        "uid" : "62479ffb6cee0dcb",
+        "title" : "Suite1 : Contacts",
+        "statistic" : {
+          "total" : 1,
+          "passed" : 0,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 1,
+          "broken" : 0
+        }
+      }, {
+        "uid" : "4092ef79185166f4",
+        "title" : "Suite1 : Groups",
+        "statistic" : {
+          "total" : 6,
+          "passed" : 6,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 0,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "title" : "Without feature",
+        "statistic" : {
+          "total" : 7,
+          "passed" : 6,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 1,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

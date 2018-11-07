@@ -1,0 +1,86 @@
+{
+  "hosts" : [ {
+    "title" : "My-MacBook-Air.local",
+    "threads" : [ {
+      "title" : "5791@My-MacBook-Air.local.Test worker(10)",
+      "testCases" : [ {
+        "uid" : "b78158ec5d9da0cc",
+        "name" : "testBadGroupCreation",
+        "title" : "Test bad group creation",
+        "time" : {
+          "start" : 1541599502513,
+          "stop" : 1541599511350,
+          "duration" : 8837
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "a3033406d8916834",
+        "name" : "testGroupCreation[GroupData{id='2147483647', name='test 0'}]",
+        "title" : "Test group creation [GroupData{id='2147483647', name='test 0'}]",
+        "time" : {
+          "start" : 1541599512494,
+          "stop" : 1541599518411,
+          "duration" : 5917
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "ed623063934f2e43",
+        "name" : "testGroupCreation[GroupData{id='2147483647', name='test 1'}]",
+        "title" : "Test group creation [GroupData{id='2147483647', name='test 1'}]",
+        "time" : {
+          "start" : 1541599518419,
+          "stop" : 1541599523538,
+          "duration" : 5119
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "277b72394d4082a0",
+        "name" : "testGroupCreation[GroupData{id='2147483647', name='test 2'}]",
+        "title" : "Test group creation [GroupData{id='2147483647', name='test 2'}]",
+        "time" : {
+          "start" : 1541599523542,
+          "stop" : 1541599528441,
+          "duration" : 4899
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "8e613a18b61ac3b6",
+        "name" : "testGroupModification",
+        "title" : "Test group modification",
+        "time" : {
+          "start" : 1541599528947,
+          "stop" : 1541599534081,
+          "duration" : 5134
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "a3cc799f53183b6e",
+        "name" : "testGroupDeletion",
+        "title" : "Test group deletion",
+        "time" : {
+          "start" : 1541599536978,
+          "stop" : 1541599540647,
+          "duration" : 3669
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "9267d16b506d019a",
+        "name" : "testAddContactTests",
+        "title" : "Test add contact tests",
+        "time" : {
+          "start" : 1541599541023,
+          "stop" : 1541599550953,
+          "duration" : 9930
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      } ]
+    } ]
+  } ]
+}

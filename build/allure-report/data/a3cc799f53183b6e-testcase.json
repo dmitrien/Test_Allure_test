@@ -1,0 +1,47 @@
+{
+  "uid" : "a3cc799f53183b6e",
+  "name" : "testGroupDeletion",
+  "title" : "Test group deletion",
+  "time" : {
+    "start" : 1541599536978,
+    "stop" : 1541599540647,
+    "duration" : 3669
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "4092ef79185166f4",
+    "name" : "Suite1 : Groups",
+    "title" : "Suite1 : Groups"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite1 : Groups"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite1 : Groups"
+  }, {
+    "name" : "thread",
+    "value" : "5791@My-MacBook-Air.local.Test worker(10)"
+  }, {
+    "name" : "host",
+    "value" : "My-MacBook-Air.local"
+  } ],
+  "parameters" : [ ]
+}
