@@ -1,11 +1,11 @@
 {
-  "uid" : "f804323dc67d84c",
-  "name" : "testBadGroupCreation",
-  "title" : "Test bad group creation",
+  "uid" : "bc4ad610c3c169e6",
+  "name" : "testGroupCreation[GroupData{id='2147483647', name='test 2'}]",
+  "title" : "Test group creation [GroupData{id='2147483647', name='test 2'}]",
   "time" : {
-    "start" : 1541667698644,
-    "stop" : 1541667708945,
-    "duration" : 10301
+    "start" : 1541669057243,
+    "stop" : 1541669063320,
+    "duration" : 6077
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "92e2c7a494a15cc8",
+    "uid" : "a710e6193a3c4382",
     "name" : "Gradle suite : Gradle test",
     "title" : "Gradle suite : Gradle test"
   },
@@ -31,8 +31,11 @@
     "name" : "language",
     "value" : "JAVA"
   }, {
+    "name" : "testMethod",
+    "value" : "testGroupCreation"
+  }, {
     "name" : "thread",
-    "value" : "24490@My-MacBook-Air.local.Test worker(10)"
+    "value" : "26201@My-MacBook-Air.local.Test worker(10)"
   }, {
     "name" : "framework",
     "value" : "TestNG"
@@ -51,9 +54,6 @@
   }, {
     "name" : "suite-title",
     "value" : "Gradle suite : Gradle test"
-  }, {
-    "name" : "testMethod",
-    "value" : "testBadGroupCreation"
   } ],
   "parameters" : [ ]
 }

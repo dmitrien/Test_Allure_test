@@ -1,11 +1,11 @@
 {
-  "uid" : "650d8d791eb6c780",
-  "name" : "testContactPhones",
-  "title" : "Test contact phones",
+  "uid" : "834de536e472fdd6",
+  "name" : "testDeleteContactTest",
+  "title" : "Test delete contact test",
   "time" : {
-    "start" : 1541667697195,
-    "stop" : 1541667698635,
-    "duration" : 1440
+    "start" : 1541669025274,
+    "stop" : 1541669027997,
+    "duration" : 2723
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "92e2c7a494a15cc8",
+    "uid" : "a710e6193a3c4382",
     "name" : "Gradle suite : Gradle test",
     "title" : "Gradle suite : Gradle test"
   },
@@ -28,14 +28,17 @@
     "name" : "suite-name",
     "value" : "Gradle suite : Gradle test"
   }, {
+    "name" : "testMethod",
+    "value" : "testDeleteContactTest"
+  }, {
     "name" : "language",
     "value" : "JAVA"
   }, {
-    "name" : "thread",
-    "value" : "24490@My-MacBook-Air.local.Test worker(10)"
+    "name" : "testClass",
+    "value" : "ru.stqa.pft.addressbook.tests.ContactDeleteTests"
   }, {
-    "name" : "testMethod",
-    "value" : "testContactPhones"
+    "name" : "thread",
+    "value" : "26201@My-MacBook-Air.local.Test worker(10)"
   }, {
     "name" : "framework",
     "value" : "TestNG"
@@ -45,9 +48,6 @@
   }, {
     "name" : "testSuite",
     "value" : "Gradle suite"
-  }, {
-    "name" : "testClass",
-    "value" : "ru.stqa.pft.addressbook.tests.ContactPhoneTests"
   }, {
     "name" : "host",
     "value" : "My-MacBook-Air.local"

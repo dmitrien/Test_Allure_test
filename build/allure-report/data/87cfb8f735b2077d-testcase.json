@@ -1,11 +1,11 @@
 {
-  "uid" : "3ac663956f761a8f",
-  "name" : "testContactEmail",
-  "title" : "Test contact email",
+  "uid" : "87cfb8f735b2077d",
+  "name" : "testModificationContact",
+  "title" : "Test modification contact",
   "time" : {
-    "start" : 1541667689827,
-    "stop" : 1541667691094,
-    "duration" : 1267
+    "start" : 1541669029233,
+    "stop" : 1541669035045,
+    "duration" : 5812
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "92e2c7a494a15cc8",
+    "uid" : "a710e6193a3c4382",
     "name" : "Gradle suite : Gradle test",
     "title" : "Gradle suite : Gradle test"
   },
@@ -31,11 +31,11 @@
     "name" : "language",
     "value" : "JAVA"
   }, {
-    "name" : "testMethod",
-    "value" : "testContactEmail"
+    "name" : "testClass",
+    "value" : "ru.stqa.pft.addressbook.tests.ContactModificationTests"
   }, {
     "name" : "thread",
-    "value" : "24490@My-MacBook-Air.local.Test worker(10)"
+    "value" : "26201@My-MacBook-Air.local.Test worker(10)"
   }, {
     "name" : "framework",
     "value" : "TestNG"
@@ -46,8 +46,8 @@
     "name" : "testSuite",
     "value" : "Gradle suite"
   }, {
-    "name" : "testClass",
-    "value" : "ru.stqa.pft.addressbook.tests.ContactEmailTests"
+    "name" : "testMethod",
+    "value" : "testModificationContact"
   }, {
     "name" : "host",
     "value" : "My-MacBook-Air.local"
