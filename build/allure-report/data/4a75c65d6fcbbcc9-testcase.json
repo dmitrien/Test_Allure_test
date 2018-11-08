@@ -1,0 +1,59 @@
+{
+  "uid" : "4a75c65d6fcbbcc9",
+  "name" : "testDeleteContactTest",
+  "title" : "Test delete contact test",
+  "time" : {
+    "start" : 1541667686578,
+    "stop" : 1541667689814,
+    "duration" : 3236
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "92e2c7a494a15cc8",
+    "name" : "Gradle suite : Gradle test",
+    "title" : "Gradle suite : Gradle test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Gradle suite : Gradle test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testDeleteContactTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.stqa.pft.addressbook.tests.ContactDeleteTests"
+  }, {
+    "name" : "thread",
+    "value" : "24490@My-MacBook-Air.local.Test worker(10)"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testGroup",
+    "value" : "Gradle test"
+  }, {
+    "name" : "testSuite",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "host",
+    "value" : "My-MacBook-Air.local"
+  }, {
+    "name" : "suite-title",
+    "value" : "Gradle suite : Gradle test"
+  } ],
+  "parameters" : [ ]
+}

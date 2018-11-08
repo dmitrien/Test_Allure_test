@@ -1,0 +1,59 @@
+{
+  "uid" : "f4dbcaf36c44e438",
+  "name" : "testModificationContact",
+  "title" : "Test modification contact",
+  "time" : {
+    "start" : 1541667691111,
+    "stop" : 1541667697188,
+    "duration" : 6077
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "92e2c7a494a15cc8",
+    "name" : "Gradle suite : Gradle test",
+    "title" : "Gradle suite : Gradle test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Gradle suite : Gradle test"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "24490@My-MacBook-Air.local.Test worker(10)"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.stqa.pft.addressbook.tests.ContactModificationTests"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testGroup",
+    "value" : "Gradle test"
+  }, {
+    "name" : "testSuite",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "testModificationContact"
+  }, {
+    "name" : "host",
+    "value" : "My-MacBook-Air.local"
+  }, {
+    "name" : "suite-title",
+    "value" : "Gradle suite : Gradle test"
+  } ],
+  "parameters" : [ ]
+}
