@@ -4,38 +4,33 @@
     "total" : {
       "statistic" : {
         "total" : 11,
-        "passed" : 10,
+        "passed" : 11,
         "pending" : 0,
         "canceled" : 0,
-        "failed" : 1,
+        "failed" : 0,
         "broken" : 0
       },
       "time" : {
-        "start" : 1541678937368,
-        "stop" : 1541679012895,
-        "duration" : 75527
+        "start" : 1541679527620,
+        "stop" : 1541679602817,
+        "duration" : 75197
       }
     },
     "defects" : {
-      "totalCount" : 1,
-      "items" : [ {
-        "count" : 1,
-        "uid" : "21320d7903acc033",
-        "message" : "AssertionError: \nExpected: <[ContactData{id=2, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=37, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=20, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=3, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=10, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=27, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=19, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=36, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=26, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=13, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=30, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=35, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=4, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=21, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=17, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=34, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=38, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=12, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=23, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=18, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=16, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=1, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=29, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}]>\n     but: was <[ContactData{id=2, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=37, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=20, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=3, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=10, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=27, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=19, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=36, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=26, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=13, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=39, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=30, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=35, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=4, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=21, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=17, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=34, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=38, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=12, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=23, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=18, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=16, firstname='CopchoniyF', middlename='null', lastname='CopchoniyL', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=1, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=29, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}]>",
-        "status" : "FAILED"
-      } ]
+      "totalCount" : 0,
+      "items" : [ ]
     },
     "xunit" : {
       "totalCount" : 1,
       "items" : [ {
-        "uid" : "650db971146631a5",
+        "uid" : "1ba6e8179adf8c10",
         "title" : "Gradle suite : Gradle test",
         "statistic" : {
           "total" : 11,
-          "passed" : 10,
+          "passed" : 11,
           "pending" : 0,
           "canceled" : 0,
-          "failed" : 1,
+          "failed" : 0,
           "broken" : 0
         }
       } ]
@@ -46,10 +41,10 @@
         "title" : "Without feature",
         "statistic" : {
           "total" : 11,
-          "passed" : 10,
+          "passed" : 11,
           "pending" : 0,
           "canceled" : 0,
-          "failed" : 1,
+          "failed" : 0,
           "broken" : 0
         }
       } ]

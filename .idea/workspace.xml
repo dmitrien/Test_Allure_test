@@ -7,40 +7,31 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/annotation-processors.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build/allure-report/data/10c5250abfa52bdd-testcase.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/allure-report/data/23117f8a7c9022bb-testcase.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/allure-report/data/2b0ebb544f6458c3-testcase.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/allure-report/data/3b827ba488081173-testcase.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/allure-report/data/514177c13b96f77d-testcase.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/allure-report/data/7294382253f35c84-testcase.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/allure-report/data/798712cef0f2bd5a-testcase.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/allure-report/data/834de536e472fdd6-testcase.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/allure-report/data/87cfb8f735b2077d-testcase.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/allure-report/data/8d2eea4f7ababce7-testcase.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/allure-report/data/bc4ad610c3c169e6-testcase.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/allure-report/data/26448aff11e96c8b-testcase.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/allure-report/data/3acecf77f5c3519a-testcase.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/allure-report/data/46393d1a283c327b-testcase.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/allure-report/data/5335b608492f8ac7-testcase.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/allure-report/data/66b9d65bad1793b6-testcase.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/allure-report/data/6a564bad8985ad64-testcase.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/allure-report/data/8a8fa301f3ebee57-testcase.json" afterPath="" />
       <change beforePath="$PROJECT_DIR$/build/allure-report/data/behaviors.json" afterPath="$PROJECT_DIR$/build/allure-report/data/behaviors.json" />
+      <change beforePath="$PROJECT_DIR$/build/allure-report/data/c6741b76127cae3a-testcase.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/allure-report/data/d473705c7a6b6a6a-testcase.json" afterPath="" />
       <change beforePath="$PROJECT_DIR$/build/allure-report/data/defects.json" afterPath="$PROJECT_DIR$/build/allure-report/data/defects.json" />
       <change beforePath="$PROJECT_DIR$/build/allure-report/data/environment.json" afterPath="$PROJECT_DIR$/build/allure-report/data/environment.json" />
+      <change beforePath="$PROJECT_DIR$/build/allure-report/data/f037daade543f2d9-testcase.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/allure-report/data/fc332b881639283c-testcase.json" afterPath="" />
       <change beforePath="$PROJECT_DIR$/build/allure-report/data/graph.json" afterPath="$PROJECT_DIR$/build/allure-report/data/graph.json" />
       <change beforePath="$PROJECT_DIR$/build/allure-report/data/report.json" afterPath="$PROJECT_DIR$/build/allure-report/data/report.json" />
       <change beforePath="$PROJECT_DIR$/build/allure-report/data/timeline.json" afterPath="$PROJECT_DIR$/build/allure-report/data/timeline.json" />
       <change beforePath="$PROJECT_DIR$/build/allure-report/data/total.json" afterPath="$PROJECT_DIR$/build/allure-report/data/total.json" />
       <change beforePath="$PROJECT_DIR$/build/allure-report/data/widgets.json" afterPath="$PROJECT_DIR$/build/allure-report/data/widgets.json" />
       <change beforePath="$PROJECT_DIR$/build/allure-report/data/xunit.json" afterPath="$PROJECT_DIR$/build/allure-report/data/xunit.json" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/db5f24df-79c9-4aa8-808f-40b623966289-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/libs/Test_Allure_test-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/build/libs/Test_Allure_test-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/build/libs/addressbook-web-tests-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/fdbb3dd2-5049-4f1d-a380-4790d895bed2-testsuite.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/ru/stqa/pft/addressbook/tests/ContactAddTests.class" afterPath="$PROJECT_DIR$/build/classes/java/test/ru/stqa/pft/addressbook/tests/ContactAddTests.class" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/ru/stqa/pft/addressbook/tests/GroupDeletionTests.class" afterPath="$PROJECT_DIR$/build/classes/java/test/ru/stqa/pft/addressbook/tests/GroupDeletionTests.class" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.stqa.pft.addressbook.tests.ContactAddTests.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.stqa.pft.addressbook.tests.ContactAddTests.html" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.stqa.pft.addressbook.tests.ContactDeleteTests.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.stqa.pft.addressbook.tests.ContactDeleteTests.html" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.stqa.pft.addressbook.tests.ContactEmailTests.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.stqa.pft.addressbook.tests.ContactEmailTests.html" />
@@ -60,54 +51,8 @@
       <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ru.stqa.pft.addressbook.tests.GroupDeletionTests.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ru.stqa.pft.addressbook.tests.GroupDeletionTests.xml" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ru.stqa.pft.addressbook.tests.GroupModificationTests.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ru.stqa.pft.addressbook.tests.GroupModificationTests.xml" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1325565172251532849_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1432990438496158603_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1560435525727784358_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1675205432444183641_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_2534128431411963697_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_2605208297211779489_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_2996309291403339010_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_3190021531068422331_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_3330750594107710672_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_3366549890868246803_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_3419401129309465052_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_3585124384535461282_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_3688295615658433126_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_4222389885109586313_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_4372406232625576701_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_4384872114517841910_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_4465497661493323010_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_4514171177549067158_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_5051371147640506957_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_534174811631886923_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_5463229186224049689_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_550536819261434593_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_5643529077875864798_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_5948943225926814229_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6131603283408661316_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6142727256896596973_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6179700846770283328_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6238086228561917706_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6254712355429005055_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6419097155808233300_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6538326299186878212_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6720694083035190949_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6798407340608106647_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6889054744321065912_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6974767315594374523_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_7203108431424016760_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_7208267283687028949_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_7769116883274970631_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_7778366979214362107_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_7837642527786609141_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_7890100646133861280_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_7932487022460485491_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_7990029740081423753_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_805426240063038173_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_8364952688338349557_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_9175331235037786285_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_934134461751980637_tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_934680202511112406_tmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/ContactAddTests.java" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/ContactAddTests.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeletionTests.java" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeletionTests.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -175,7 +120,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="607">
@@ -633,11 +578,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <file leaf-file-name="GroupCreationTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="67">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -646,18 +591,18 @@
       <file leaf-file-name="ContactAddTests.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/ContactAddTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContactEmailTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/ContactEmailTests.java">
+      <file leaf-file-name="GroupDeletionTests.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeletionTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -985,9 +930,10 @@
         <option value="$PROJECT_DIR$/src/test/resources/allure.properties" />
         <option value="$PROJECT_DIR$/gradle.properties" />
         <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/ContactAddTests.java" />
         <option value="$PROJECT_DIR$/build/reports/tests/test/index.html" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/ContactAddTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeletionTests.java" />
       </list>
     </option>
   </component>
@@ -1027,22 +973,37 @@
             <path>
               <item name="Test_Allure_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test_Allure_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Test_Allure_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Test_Allure_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="Test_Allure_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: ru.yandex.qatools.allure:allure-java-aspects:1.4.24.RC3" type="70bed36:NamedLibraryElementNode" />
+              <item name="Test_Allure_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Test_Allure_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: ru.yandex.qatools.allure:allure-java-aspects:1.4.24.RC3" type="70bed36:NamedLibraryElementNode" />
-              <item name="allure-java-aspects-1.4.24.RC3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_Allure_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test_Allure_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test_Allure_test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="addressbook" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1626,14 +1587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/allure-results/853cc34e-0b2c-4d4f-93a5-122ba207c034-testsuite.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1685,14 +1638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/ContactAddTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2145,6 +2090,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="607">
           <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/ContactAddTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeletionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding />
         </state>
       </provider>

@@ -1,11 +1,11 @@
 {
-  "uid" : "66b9d65bad1793b6",
-  "name" : "testGroupDeletion",
-  "title" : "Test group deletion",
+  "uid" : "947d0bdbcd02f692",
+  "name" : "testAddContactTests",
+  "title" : "Test add contact tests",
   "time" : {
-    "start" : 1541678992566,
-    "stop" : 1541679003772,
-    "duration" : 11206
+    "start" : 1541679527620,
+    "stop" : 1541679536510,
+    "duration" : 8890
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "650db971146631a5",
+    "uid" : "1ba6e8179adf8c10",
     "name" : "Gradle suite : Gradle test",
     "title" : "Gradle suite : Gradle test"
   },
@@ -31,8 +31,14 @@
     "name" : "language",
     "value" : "JAVA"
   }, {
+    "name" : "testMethod",
+    "value" : "testAddContactTests"
+  }, {
     "name" : "thread",
-    "value" : "34013@My-MacBook-Air.local.Test worker(10)"
+    "value" : "34849@My-MacBook-Air.local.Test worker(10)"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.stqa.pft.addressbook.tests.ContactAddTests"
   }, {
     "name" : "framework",
     "value" : "TestNG"
@@ -48,12 +54,6 @@
   }, {
     "name" : "suite-title",
     "value" : "Gradle suite : Gradle test"
-  }, {
-    "name" : "testClass",
-    "value" : "ru.stqa.pft.addressbook.tests.GroupDeletionTests"
-  }, {
-    "name" : "testMethod",
-    "value" : "testGroupDeletion"
   } ],
   "parameters" : [ ]
 }
