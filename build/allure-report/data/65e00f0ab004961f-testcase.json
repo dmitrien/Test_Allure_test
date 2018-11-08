@@ -1,11 +1,11 @@
 {
-  "uid" : "8e613a18b61ac3b6",
-  "name" : "testGroupModification",
-  "title" : "Test group modification",
+  "uid" : "65e00f0ab004961f",
+  "name" : "testBadGroupCreation",
+  "title" : "Test bad group creation",
   "time" : {
-    "start" : 1541599528947,
-    "stop" : 1541599534081,
-    "duration" : 5134
+    "start" : 1541664236656,
+    "stop" : 1541664244462,
+    "duration" : 7806
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "4092ef79185166f4",
+    "uid" : "58ab0f25673e414d",
     "name" : "Suite1 : Groups",
     "title" : "Suite1 : Groups"
   },
@@ -37,11 +37,11 @@
     "name" : "suite-title",
     "value" : "Suite1 : Groups"
   }, {
-    "name" : "thread",
-    "value" : "5791@My-MacBook-Air.local.Test worker(10)"
-  }, {
     "name" : "host",
     "value" : "My-MacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "20692@My-MacBook-Air.local.Test worker(10)"
   } ],
   "parameters" : [ ]
 }

@@ -1,79 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta http-equiv="x-ua-compatible" content="IE=edge"/>
-<title>Test results - Class ru.stqa.pft.addressbook.tests.ContactAddTests</title>
-<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
-<link href="../css/style.css" rel="stylesheet" type="text/css"/>
-<script src="../js/report.js" type="text/javascript"></script>
-</head>
-<body>
-<div id="content">
-<h1>Class ru.stqa.pft.addressbook.tests.ContactAddTests</h1>
-<div class="breadcrumbs">
-<a href="../index.html">all</a> &gt; 
-<a href="../packages/ru.stqa.pft.addressbook.tests.html">ru.stqa.pft.addressbook.tests</a> &gt; ContactAddTests</div>
-<div id="summary">
-<table>
-<tr>
-<td>
-<div class="summaryGroup">
-<table>
-<tr>
-<td>
-<div class="infoBox" id="tests">
-<div class="counter">1</div>
-<p>tests</p>
-</div>
-</td>
-<td>
-<div class="infoBox" id="failures">
-<div class="counter">1</div>
-<p>failures</p>
-</div>
-</td>
-<td>
-<div class="infoBox" id="ignored">
-<div class="counter">0</div>
-<p>ignored</p>
-</div>
-</td>
-<td>
-<div class="infoBox" id="duration">
-<div class="counter">8.771s</div>
-<p>duration</p>
-</div>
-</td>
-</tr>
-</table>
-</div>
-</td>
-<td>
-<div class="infoBox failures" id="successRate">
-<div class="percent">0%</div>
-<p>successful</p>
-</div>
-</td>
-</tr>
-</table>
-</div>
-<div id="tabs">
-<ul class="tabLinks">
-<li>
-<a href="#tab0">Failed tests</a>
-</li>
-<li>
-<a href="#tab1">Tests</a>
-</li>
-</ul>
-<div id="tab0" class="tab">
-<h2>Failed tests</h2>
-<div class="test">
-<a name="testAddContactTests"></a>
-<h3 class="failures">testAddContactTests</h3>
-<span class="code">
-<pre>java.lang.AssertionError: 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1541664268154" stop="1541664276938" version="1.4.24.RC2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite1 : Contacts</name>
+    <title>Suite1 : Contacts</title>
+    <test-cases>
+        <test-case start="1541664268161" stop="1541664276938" status="failed">
+            <name>testAddContactTests</name>
+            <failure>
+                <message>AssertionError: 
+Expected: &lt;[ContactData{id=6, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=7, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=14, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=16, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=5, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=8, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=9, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=4, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=15, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=11, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=2, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=3, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=10, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=13, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=17, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=12, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=18, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=1, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}]&gt;
+     but: was &lt;[ContactData{id=6, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=7, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=14, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=16, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=5, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=8, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=9, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=4, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=15, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=11, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=2, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=3, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=10, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=19, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=13, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=17, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=12, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=18, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=1, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}]&gt;</message>
+                <stack-trace>java.lang.AssertionError: 
 Expected: &lt;[ContactData{id=6, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=7, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=14, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=16, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=5, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=8, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=9, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=4, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=15, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=11, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=2, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=3, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=10, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=13, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=17, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=12, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=18, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=1, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}]&gt;
      but: was &lt;[ContactData{id=6, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=7, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=14, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=16, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=5, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=8, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=9, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=4, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=15, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=11, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=2, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=3, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=10, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=19, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=13, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=17, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=12, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=18, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}, ContactData{id=1, firstname='Shakal', middlename='null', lastname='Shakalovich', group='null', homePhone='null', mobilePhone='null', workPhone='null', email='null', secondEmail='null', thirdEmail='null'}]&gt;
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:18)
@@ -129,37 +65,18 @@ Expected: &lt;[ContactData{id=6, firstname='Shakal', middlename='null', lastname
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
 	at java.lang.Thread.run(Thread.java:748)
-</pre>
-</span>
-</div>
-</div>
-<div id="tab1" class="tab">
-<h2>Tests</h2>
-<table>
-<thead>
-<tr>
-<th>Test</th>
-<th>Duration</th>
-<th>Result</th>
-</tr>
-</thead>
-<tr>
-<td class="failures">testAddContactTests</td>
-<td class="failures">8.771s</td>
-<td class="failures">failed</td>
-</tr>
-</table>
-</div>
-</div>
-<div id="footer">
-<p>
-<div>
-<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
-<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
-</label>
-</div>Generated by 
-<a href="http://www.gradle.org">Gradle 4.10.2</a> at Nov 8, 2018 11:04:38 AM</p>
-</div>
-</div>
-</body>
-</html>
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="My-MacBook-Air.local"/>
+                <label name="thread" value="20692@My-MacBook-Air.local.Test worker(10)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
