@@ -1,11 +1,11 @@
 {
-  "uid" : "7ab02cbaf19d8170",
+  "uid" : "df5854657d15644",
   "name" : "testContactEmail",
   "title" : "Test contact email",
   "time" : {
-    "start" : 1541679540259,
-    "stop" : 1541679541455,
-    "duration" : 1196
+    "start" : 1542892820901,
+    "stop" : 1542892822117,
+    "duration" : 1216
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "1ba6e8179adf8c10",
+    "uid" : "acf081a6c04ef521",
     "name" : "Gradle suite : Gradle test",
     "title" : "Gradle suite : Gradle test"
   },
@@ -33,9 +33,6 @@
   }, {
     "name" : "testMethod",
     "value" : "testContactEmail"
-  }, {
-    "name" : "thread",
-    "value" : "34849@My-MacBook-Air.local.Test worker(10)"
   }, {
     "name" : "framework",
     "value" : "TestNG"
@@ -54,6 +51,9 @@
   }, {
     "name" : "suite-title",
     "value" : "Gradle suite : Gradle test"
+  }, {
+    "name" : "thread",
+    "value" : "42225@My-MacBook-Air.local.Test worker(10)"
   } ],
   "parameters" : [ ]
 }

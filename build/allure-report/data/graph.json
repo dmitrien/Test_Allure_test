@@ -1,122 +1,122 @@
 {
   "testCases" : [ {
-    "uid" : "947d0bdbcd02f692",
+    "uid" : "262466f2e55fc841",
     "name" : "testAddContactTests",
     "title" : "Test add contact tests",
     "time" : {
-      "start" : 1541679527620,
-      "stop" : 1541679536510,
-      "duration" : 8890
+      "start" : 1542892807800,
+      "stop" : 1542892817475,
+      "duration" : 9675
     },
     "severity" : "NORMAL",
-    "status" : "PASSED"
+    "status" : "FAILED"
   }, {
-    "uid" : "4297d9cb6a1ab7ac",
+    "uid" : "bccd8ad855fcf19a",
     "name" : "testDeleteContactTest",
     "title" : "Test delete contact test",
     "time" : {
-      "start" : 1541679536524,
-      "stop" : 1541679540253,
-      "duration" : 3729
+      "start" : 1542892817483,
+      "stop" : 1542892820893,
+      "duration" : 3410
     },
     "severity" : "NORMAL",
     "status" : "PASSED"
   }, {
-    "uid" : "7ab02cbaf19d8170",
+    "uid" : "df5854657d15644",
     "name" : "testContactEmail",
     "title" : "Test contact email",
     "time" : {
-      "start" : 1541679540259,
-      "stop" : 1541679541455,
-      "duration" : 1196
+      "start" : 1542892820901,
+      "stop" : 1542892822117,
+      "duration" : 1216
     },
     "severity" : "NORMAL",
     "status" : "PASSED"
   }, {
-    "uid" : "94862e07e1823b66",
+    "uid" : "b4fecac27920f389",
     "name" : "testModificationContact",
     "title" : "Test modification contact",
     "time" : {
-      "start" : 1541679541469,
-      "stop" : 1541679547396,
-      "duration" : 5927
+      "start" : 1542892822122,
+      "stop" : 1542892828551,
+      "duration" : 6429
     },
     "severity" : "NORMAL",
     "status" : "PASSED"
   }, {
-    "uid" : "f2bf7c881158a1d2",
+    "uid" : "c5d840bc0706f928",
     "name" : "testContactPhones",
     "title" : "Test contact phones",
     "time" : {
-      "start" : 1541679547401,
-      "stop" : 1541679549016,
-      "duration" : 1615
+      "start" : 1542892828555,
+      "stop" : 1542892829755,
+      "duration" : 1200
     },
     "severity" : "NORMAL",
     "status" : "PASSED"
   }, {
-    "uid" : "ec7e0adaafdf0cf5",
+    "uid" : "88e231dca1238051",
     "name" : "testBadGroupCreation",
     "title" : "Test bad group creation",
     "time" : {
-      "start" : 1541679549021,
-      "stop" : 1541679560178,
-      "duration" : 11157
+      "start" : 1542892829759,
+      "stop" : 1542892850357,
+      "duration" : 20598
     },
     "severity" : "NORMAL",
     "status" : "PASSED"
   }, {
-    "uid" : "cfa08396867a187a",
+    "uid" : "35f3b7cd01984453",
     "name" : "testGroupCreation[GroupData{id='2147483647', name='test 0'}]",
     "title" : "Test group creation [GroupData{id='2147483647', name='test 0'}]",
     "time" : {
-      "start" : 1541679560371,
-      "stop" : 1541679567386,
-      "duration" : 7015
+      "start" : 1542892850556,
+      "stop" : 1542892863336,
+      "duration" : 12780
     },
     "severity" : "NORMAL",
     "status" : "PASSED"
   }, {
-    "uid" : "38a93365a9dda2a8",
+    "uid" : "8a3cae6d81ab9f60",
     "name" : "testGroupCreation[GroupData{id='2147483647', name='test 1'}]",
     "title" : "Test group creation [GroupData{id='2147483647', name='test 1'}]",
     "time" : {
-      "start" : 1541679567390,
-      "stop" : 1541679575563,
-      "duration" : 8173
+      "start" : 1542892863342,
+      "stop" : 1542892876364,
+      "duration" : 13022
     },
     "severity" : "NORMAL",
     "status" : "PASSED"
   }, {
-    "uid" : "96566e5cb0e5065b",
+    "uid" : "f6f570be4a8480e5",
     "name" : "testGroupCreation[GroupData{id='2147483647', name='test 2'}]",
     "title" : "Test group creation [GroupData{id='2147483647', name='test 2'}]",
     "time" : {
-      "start" : 1541679575566,
-      "stop" : 1541679584361,
-      "duration" : 8795
+      "start" : 1542892876368,
+      "stop" : 1542892894926,
+      "duration" : 18558
     },
     "severity" : "NORMAL",
     "status" : "PASSED"
   }, {
-    "uid" : "3b507b1b7de7a48b",
+    "uid" : "9632ac33cc3cbf39",
     "name" : "testGroupDeletion",
     "title" : "Test group deletion",
     "time" : {
-      "start" : 1541679585583,
-      "stop" : 1541679592080,
-      "duration" : 6497
+      "start" : 1542892897773,
+      "stop" : 1542892911595,
+      "duration" : 13822
     },
     "severity" : "NORMAL",
     "status" : "PASSED"
   }, {
-    "uid" : "3e5126f75996e860",
+    "uid" : "d8c1a8380fd263c6",
     "name" : "testGroupModification",
     "title" : "Test group modification",
     "time" : {
-      "start" : 1541679593402,
-      "stop" : 1541679602817,
-      "duration" : 9415
+      "start" : 1542892914181,
+      "stop" : 1542892931361,
+      "duration" : 17180
     },
     "severity" : "NORMAL",
     "status" : "PASSED"
