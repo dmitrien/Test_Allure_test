@@ -1,11 +1,11 @@
 {
-  "uid" : "b4a6d91f181cb8c5",
-  "name" : "testGroupDeletion",
-  "title" : "Test group deletion",
+  "uid" : "9d3bbf4966c63",
+  "name" : "testBadGroupCreation",
+  "title" : "Test bad group creation",
   "time" : {
-    "start" : 1544534378812,
-    "stop" : 1544534393696,
-    "duration" : 14884
+    "start" : 1544536887803,
+    "stop" : 1544536910709,
+    "duration" : 22906
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "68c5c139426252ea",
+    "uid" : "7c2462afd6e7d2f8",
     "name" : "Gradle suite : Gradle test",
     "title" : "Gradle suite : Gradle test"
   },
@@ -31,14 +31,14 @@
     "name" : "language",
     "value" : "JAVA"
   }, {
-    "name" : "thread",
-    "value" : "99901@My-MacBook-Air.local.Test worker(10)"
-  }, {
     "name" : "framework",
     "value" : "TestNG"
   }, {
     "name" : "testGroup",
     "value" : "Gradle test"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.stqa.pft.addressbook.tests.GroupCreationTests"
   }, {
     "name" : "testSuite",
     "value" : "Gradle suite"
@@ -49,11 +49,11 @@
     "name" : "suite-title",
     "value" : "Gradle suite : Gradle test"
   }, {
-    "name" : "testClass",
-    "value" : "ru.stqa.pft.addressbook.tests.GroupDeletionTests"
-  }, {
     "name" : "testMethod",
-    "value" : "testGroupDeletion"
+    "value" : "testBadGroupCreation"
+  }, {
+    "name" : "thread",
+    "value" : "3509@My-MacBook-Air.local.Test worker(10)"
   } ],
   "parameters" : [ ]
 }

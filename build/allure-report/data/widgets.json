@@ -11,9 +11,9 @@
         "broken" : 0
       },
       "time" : {
-        "start" : 1544534287791,
-        "stop" : 1544534413042,
-        "duration" : 125251
+        "start" : 1544536866210,
+        "stop" : 1544536992592,
+        "duration" : 126382
       }
     },
     "defects" : {
@@ -23,7 +23,7 @@
     "xunit" : {
       "totalCount" : 1,
       "items" : [ {
-        "uid" : "68c5c139426252ea",
+        "uid" : "7c2462afd6e7d2f8",
         "title" : "Gradle suite : Gradle test",
         "statistic" : {
           "total" : 11,

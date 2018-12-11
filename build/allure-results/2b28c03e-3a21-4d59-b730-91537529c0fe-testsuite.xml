@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1544534287405" stop="1544534413048" version="1.4.24.RC3" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+<ns2:test-suite start="1544536865829" stop="1544536992598" version="1.4.24.RC3" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
     <name>Gradle suite : Gradle test</name>
     <title>Gradle suite : Gradle test</title>
     <test-cases>
-        <test-case start="1544534287791" stop="1544534297372" status="passed">
+        <test-case start="1544536866210" stop="1544536875717" status="passed">
             <name>testAddContactTests</name>
             <steps/>
             <attachments/>
@@ -13,10 +13,10 @@
                 <label name="testClass" value="ru.stqa.pft.addressbook.tests.ContactAddTests"/>
                 <label name="testMethod" value="testAddContactTests"/>
                 <label name="host" value="My-MacBook-Air.local"/>
-                <label name="thread" value="99901@My-MacBook-Air.local.Test worker(10)"/>
+                <label name="thread" value="3509@My-MacBook-Air.local.Test worker(10)"/>
             </labels>
         </test-case>
-        <test-case start="1544534297389" stop="1544534300635" status="passed">
+        <test-case start="1544536875735" stop="1544536878988" status="passed">
             <name>testDeleteContactTest</name>
             <steps/>
             <attachments/>
@@ -26,10 +26,10 @@
                 <label name="testClass" value="ru.stqa.pft.addressbook.tests.ContactDeleteTests"/>
                 <label name="testMethod" value="testDeleteContactTest"/>
                 <label name="host" value="My-MacBook-Air.local"/>
-                <label name="thread" value="99901@My-MacBook-Air.local.Test worker(10)"/>
+                <label name="thread" value="3509@My-MacBook-Air.local.Test worker(10)"/>
             </labels>
         </test-case>
-        <test-case start="1544534300640" stop="1544534301807" status="passed">
+        <test-case start="1544536878993" stop="1544536880171" status="passed">
             <name>testContactEmail</name>
             <steps/>
             <attachments/>
@@ -39,10 +39,10 @@
                 <label name="testClass" value="ru.stqa.pft.addressbook.tests.ContactEmailTests"/>
                 <label name="testMethod" value="testContactEmail"/>
                 <label name="host" value="My-MacBook-Air.local"/>
-                <label name="thread" value="99901@My-MacBook-Air.local.Test worker(10)"/>
+                <label name="thread" value="3509@My-MacBook-Air.local.Test worker(10)"/>
             </labels>
         </test-case>
-        <test-case start="1544534301812" stop="1544534308357" status="passed">
+        <test-case start="1544536880175" stop="1544536886612" status="passed">
             <name>testModificationContact</name>
             <steps/>
             <attachments/>
@@ -52,10 +52,10 @@
                 <label name="testClass" value="ru.stqa.pft.addressbook.tests.ContactModificationTests"/>
                 <label name="testMethod" value="testModificationContact"/>
                 <label name="host" value="My-MacBook-Air.local"/>
-                <label name="thread" value="99901@My-MacBook-Air.local.Test worker(10)"/>
+                <label name="thread" value="3509@My-MacBook-Air.local.Test worker(10)"/>
             </labels>
         </test-case>
-        <test-case start="1544534308363" stop="1544534309609" status="passed">
+        <test-case start="1544536886620" stop="1544536887800" status="passed">
             <name>testContactPhones</name>
             <steps/>
             <attachments/>
@@ -65,10 +65,10 @@
                 <label name="testClass" value="ru.stqa.pft.addressbook.tests.ContactPhoneTests"/>
                 <label name="testMethod" value="testContactPhones"/>
                 <label name="host" value="My-MacBook-Air.local"/>
-                <label name="thread" value="99901@My-MacBook-Air.local.Test worker(10)"/>
+                <label name="thread" value="3509@My-MacBook-Air.local.Test worker(10)"/>
             </labels>
         </test-case>
-        <test-case start="1544534309613" stop="1544534332357" status="passed">
+        <test-case start="1544536887803" stop="1544536910709" status="passed">
             <name>testBadGroupCreation</name>
             <steps/>
             <attachments/>
@@ -78,10 +78,10 @@
                 <label name="testClass" value="ru.stqa.pft.addressbook.tests.GroupCreationTests"/>
                 <label name="testMethod" value="testBadGroupCreation"/>
                 <label name="host" value="My-MacBook-Air.local"/>
-                <label name="thread" value="99901@My-MacBook-Air.local.Test worker(10)"/>
+                <label name="thread" value="3509@My-MacBook-Air.local.Test worker(10)"/>
             </labels>
         </test-case>
-        <test-case start="1544534332553" stop="1544534346556" status="passed">
+        <test-case start="1544536910909" stop="1544536924832" status="passed">
             <name>testGroupCreation[GroupData{id='2147483647', name='test 0'}]</name>
             <steps/>
             <attachments/>
@@ -91,10 +91,10 @@
                 <label name="testClass" value="ru.stqa.pft.addressbook.tests.GroupCreationTests"/>
                 <label name="testMethod" value="testGroupCreation"/>
                 <label name="host" value="My-MacBook-Air.local"/>
-                <label name="thread" value="99901@My-MacBook-Air.local.Test worker(10)"/>
+                <label name="thread" value="3509@My-MacBook-Air.local.Test worker(10)"/>
             </labels>
         </test-case>
-        <test-case start="1544534346562" stop="1544534361301" status="passed">
+        <test-case start="1544536924837" stop="1544536939765" status="passed">
             <name>testGroupCreation[GroupData{id='2147483647', name='test 1'}]</name>
             <steps/>
             <attachments/>
@@ -104,10 +104,10 @@
                 <label name="testClass" value="ru.stqa.pft.addressbook.tests.GroupCreationTests"/>
                 <label name="testMethod" value="testGroupCreation"/>
                 <label name="host" value="My-MacBook-Air.local"/>
-                <label name="thread" value="99901@My-MacBook-Air.local.Test worker(10)"/>
+                <label name="thread" value="3509@My-MacBook-Air.local.Test worker(10)"/>
             </labels>
         </test-case>
-        <test-case start="1544534361305" stop="1544534376847" status="passed">
+        <test-case start="1544536939768" stop="1544536955142" status="passed">
             <name>testGroupCreation[GroupData{id='2147483647', name='test 2'}]</name>
             <steps/>
             <attachments/>
@@ -117,10 +117,10 @@
                 <label name="testClass" value="ru.stqa.pft.addressbook.tests.GroupCreationTests"/>
                 <label name="testMethod" value="testGroupCreation"/>
                 <label name="host" value="My-MacBook-Air.local"/>
-                <label name="thread" value="99901@My-MacBook-Air.local.Test worker(10)"/>
+                <label name="thread" value="3509@My-MacBook-Air.local.Test worker(10)"/>
             </labels>
         </test-case>
-        <test-case start="1544534378812" stop="1544534393696" status="passed">
+        <test-case start="1544536957360" stop="1544536972786" status="passed">
             <name>testGroupDeletion</name>
             <steps/>
             <attachments/>
@@ -130,10 +130,10 @@
                 <label name="testClass" value="ru.stqa.pft.addressbook.tests.GroupDeletionTests"/>
                 <label name="testMethod" value="testGroupDeletion"/>
                 <label name="host" value="My-MacBook-Air.local"/>
-                <label name="thread" value="99901@My-MacBook-Air.local.Test worker(10)"/>
+                <label name="thread" value="3509@My-MacBook-Air.local.Test worker(10)"/>
             </labels>
         </test-case>
-        <test-case start="1544534395974" stop="1544534413042" status="passed">
+        <test-case start="1544536975156" stop="1544536992592" status="passed">
             <name>testGroupModification</name>
             <steps/>
             <attachments/>
@@ -143,7 +143,7 @@
                 <label name="testClass" value="ru.stqa.pft.addressbook.tests.GroupModificationTests"/>
                 <label name="testMethod" value="testGroupModification"/>
                 <label name="host" value="My-MacBook-Air.local"/>
-                <label name="thread" value="99901@My-MacBook-Air.local.Test worker(10)"/>
+                <label name="thread" value="3509@My-MacBook-Air.local.Test worker(10)"/>
             </labels>
         </test-case>
     </test-cases>
