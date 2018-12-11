@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.stqa.pft.addressbook.tests.ContactDeleteTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-11T14:01:15" hostname="My-MacBook-Air.local" time="3.26">
-  <properties/>
-  <testcase name="testDeleteContactTest" classname="ru.stqa.pft.addressbook.tests.ContactDeleteTests" time="3.26"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

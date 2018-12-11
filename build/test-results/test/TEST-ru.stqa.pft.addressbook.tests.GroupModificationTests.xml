@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.stqa.pft.addressbook.tests.GroupModificationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-11T14:02:55" hostname="My-MacBook-Air.local" time="17.438">
-  <properties/>
-  <testcase name="testGroupModification" classname="ru.stqa.pft.addressbook.tests.GroupModificationTests" time="17.438"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
