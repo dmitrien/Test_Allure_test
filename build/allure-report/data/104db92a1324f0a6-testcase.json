@@ -1,11 +1,11 @@
 {
-  "uid" : "66766bbfc8afcb77",
-  "name" : "testContactPhones",
-  "title" : "Test contact phones",
+  "uid" : "104db92a1324f0a6",
+  "name" : "testAddContactTests",
+  "title" : "Test add contact tests",
   "time" : {
-    "start" : 1544536886620,
-    "stop" : 1544536887800,
-    "duration" : 1180
+    "start" : 1544596219074,
+    "stop" : 1544596229125,
+    "duration" : 10051
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "7c2462afd6e7d2f8",
+    "uid" : "ec183461f74ac0a1",
     "name" : "Gradle suite : Gradle test",
     "title" : "Gradle suite : Gradle test"
   },
@@ -32,7 +32,10 @@
     "value" : "JAVA"
   }, {
     "name" : "testMethod",
-    "value" : "testContactPhones"
+    "value" : "testAddContactTests"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.stqa.pft.addressbook.tests.ContactAddTests"
   }, {
     "name" : "framework",
     "value" : "TestNG"
@@ -43,17 +46,14 @@
     "name" : "testSuite",
     "value" : "Gradle suite"
   }, {
-    "name" : "testClass",
-    "value" : "ru.stqa.pft.addressbook.tests.ContactPhoneTests"
-  }, {
     "name" : "host",
     "value" : "My-MacBook-Air.local"
   }, {
+    "name" : "thread",
+    "value" : "1987@My-MacBook-Air.local.Test worker(10)"
+  }, {
     "name" : "suite-title",
     "value" : "Gradle suite : Gradle test"
-  }, {
-    "name" : "thread",
-    "value" : "3509@My-MacBook-Air.local.Test worker(10)"
   } ],
   "parameters" : [ ]
 }

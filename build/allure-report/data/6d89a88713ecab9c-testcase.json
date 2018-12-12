@@ -1,11 +1,11 @@
 {
-  "uid" : "f8d04a64e03e3c1",
-  "name" : "testGroupCreation[GroupData{id='2147483647', name='test 2'}]",
-  "title" : "Test group creation [GroupData{id='2147483647', name='test 2'}]",
+  "uid" : "6d89a88713ecab9c",
+  "name" : "testGroupCreation[GroupData{id='2147483647', name='test 0'}]",
+  "title" : "Test group creation [GroupData{id='2147483647', name='test 0'}]",
   "time" : {
-    "start" : 1544536939768,
-    "stop" : 1544536955142,
-    "duration" : 15374
+    "start" : 1544596265886,
+    "stop" : 1544596280612,
+    "duration" : 14726
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "7c2462afd6e7d2f8",
+    "uid" : "ec183461f74ac0a1",
     "name" : "Gradle suite : Gradle test",
     "title" : "Gradle suite : Gradle test"
   },
@@ -49,11 +49,11 @@
     "name" : "host",
     "value" : "My-MacBook-Air.local"
   }, {
+    "name" : "thread",
+    "value" : "1987@My-MacBook-Air.local.Test worker(10)"
+  }, {
     "name" : "suite-title",
     "value" : "Gradle suite : Gradle test"
-  }, {
-    "name" : "thread",
-    "value" : "3509@My-MacBook-Air.local.Test worker(10)"
   } ],
   "parameters" : [ ]
 }
